@@ -1,3 +1,4 @@
+
 /*
 * The HelloWorld program implements an application that
 *
@@ -12,7 +13,7 @@ import java.util.Scanner;
 * This program calculates the number of maple logs that can
 * be placed on a logging truck.
 */
-final class Log {
+final class Logs {
     /**
      * Constants.
      *
@@ -32,7 +33,7 @@ final class Log {
     *
     * @throws IllegalStateException if this is ever called
     */
-    private Log() {
+    private Logs() {
         throw new IllegalStateException("Cannot be instantiated");
     }
 
