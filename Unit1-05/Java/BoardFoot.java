@@ -12,6 +12,7 @@ import java.util.Scanner;
 /**
 * This is the BoardFoot program.
 */
+
 final class BoardFoot {
     /**
     * Prevent instantiation.
