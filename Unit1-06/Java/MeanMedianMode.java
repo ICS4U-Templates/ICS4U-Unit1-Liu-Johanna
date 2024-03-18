@@ -1,3 +1,4 @@
+
 /*
 * This program checks the mean and median of a list of integers in a text file.
 *
