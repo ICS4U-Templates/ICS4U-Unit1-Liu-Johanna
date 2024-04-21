@@ -1,7 +1,8 @@
+
 /*
 * This program generates student's marks
 *
-* @author  Johanna Liu 
+* @author  Johanna Liu
 * @version 1.0
 * @since   2024-04-21
 */
